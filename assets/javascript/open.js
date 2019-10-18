@@ -22,7 +22,7 @@ $(document).ready(function() {
         blue: {
           points: Math.floor(Math.random() * 12) + 1,
           imageUrl: "assets/images/blue2.jpg"
-        },
+        },  
         yellow: {
           points: Math.floor(Math.random() * 12) + 1,
           imageUrl: "assets/images/yell0w4.jpg"
