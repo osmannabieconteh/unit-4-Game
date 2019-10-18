@@ -17,7 +17,7 @@ $(document).ready(function() {
       return {
         red: {
           points: Math.floor(Math.random() * 12) + 1,
-          imageUrl: ""
+          imageUrl: "assets/images/red3.jpg"
         },
         blue: {
           points: Math.floor(Math.random() * 12) + 1,
@@ -25,7 +25,7 @@ $(document).ready(function() {
         },
         yellow: {
           points: Math.floor(Math.random() * 12) + 1,
-          imageUrl: "assets/images/yellow4.jpg"
+          imageUrl: "assets/images/yell0w4.jpg"
         },
         green: {
           points: Math.floor(Math.random() * 12) + 1,
